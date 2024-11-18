@@ -2,9 +2,9 @@
 Este es mi portafolio web desarrollado con Python. Aquí podrás encontrar información sobre mis habilidades y los proyectos que he desarrollado, especialmente relacionados con la programación en Python, desde bots en discords, hasta diversos enfoques para páginas web.
 
 # Funcionalidades
-*Página principal:* Introducción a mis habilidades y experiencia.
-*Habilidades:* Visualización interactiva de competencias como Python y desarrollo de Bots de Discord.
-*Proyectos destacados:* Una colección de mis trabajos más importantes.
+*1. Página principal:* Introducción a mis habilidades y experiencia.
+*2. Habilidades:* Visualización interactiva de competencias como Python y desarrollo de Bots de Discord.
+*3. Proyectos destacados:* Una colección de mis trabajos más importantes.
 
 # Cómo empezar
 Para utilizar este proyecto:
